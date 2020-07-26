@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6A5CDCA2-A73D-41FA-9463-8482E8062979}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EnglishGuidance</RootNamespace>
+    <AssemblyName>EnglishGuidance</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>unnamed.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.1.1.1\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.HashCode, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.HashCode.1.1.0\lib\net461\Microsoft.Bcl.HashCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore, Version=3.1.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.EntityFrameworkCore.3.1.4\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore.Abstractions, Version=3.1.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.EntityFrameworkCore.Abstractions.3.1.4\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Caching.Abstractions, Version=3.1.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Caching.Abstractions.3.1.4\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Caching.Memory, Version=3.1.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Caching.Memory.3.1.4\lib\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration, Version=3.1.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.3.1.4\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=3.1.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Abstractions.3.1.4\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Binder, Version=3.1.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Binder.3.1.4\lib\netstandard2.0\Microsoft.Extensions.Configuration.Binder.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=3.1.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.3.1.4\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=3.1.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.3.1.4\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=3.1.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.3.1.4\lib\netstandard2.0\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=3.1.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.3.1.4\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=3.1.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.3.1.4\lib\netstandard2.0\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=3.1.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.3.1.4\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable, Version=1.2.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Collections.Immutable.1.7.1\lib\net461\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.4.7.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.4.7.1\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.7.1\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\Answers.cs" />
+    <Compile Include="Data\Themes.cs" />
+    <Compile Include="Data\Users.cs" />
+    <Compile Include="DBConInitializer.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBCon.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reg.Designer.cs">
+      <DependentUpon>Reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegNew.Designer.cs">
+      <DependentUpon>RegNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultForm.Designer.cs">
+      <DependentUpon>ResultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VidDrag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VidDrag.Designer.cs">
+      <DependentUpon>VidDrag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vids.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vids.Designer.cs">
+      <DependentUpon>Vids.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reg.resx">
+      <DependentUpon>Reg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegNew.resx">
+      <DependentUpon>RegNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultForm.resx">
+      <DependentUpon>ResultForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VidDrag.resx">
+      <DependentUpon>VidDrag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vids.resx">
+      <DependentUpon>Vids.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p-8032-HYDROBIB-OB-HYDROlite-FR-Hy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6nTXdjMiB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\59812201.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\598012121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Без-им1212ени-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rk2853k2-alt.1471876944.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рисунок1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рисунок2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рисунок11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рисунок12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рисунок21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рисунок3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рисунок4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рисунок6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рисунок5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рисунок7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рисунок8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рисунок9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рис2222унок1.png" />
+    <None Include="Resources\131850.png" />
+    <None Include="Resources\130850.png" />
+    <None Include="Resources\2111.png" />
+    <None Include="Resources\look.com.ua-117308.jpg" />
+    <None Include="Resources\2222.png" />
+    <None Include="Resources\Рисунок81.png" />
+    <None Include="Resources\Рисунок111.png" />
+    <None Include="Resources\Рисунок10.png" />
+    <None Include="Resources\5980121211.png" />
+    <None Include="Resources\Рис2222унок11.png" />
+    <None Include="Resources\menu1.png" />
+    <None Include="Resources\plashka.png" />
+    <None Include="Resources\Info1.png" />
+    <None Include="Resources\menu2.png" />
+    <None Include="Resources\Info3.png" />
+    <None Include="Resources\Info31.png" />
+    <None Include="Resources\Info11111.png" />
+    <None Include="Resources\Info112111.png" />
+    <None Include="Resources\Рисунок10.2.png" />
+    <None Include="Resources\Рисунок10.3.png" />
+    <None Include="Resources\Рисунок10.4.png" />
+    <None Include="Resources\menu4.png" />
+    <None Include="Resources\iconfinder_Tick_Mark_Dark_1398912.png" />
+    <None Include="Resources\Question_Info.png" />
+    <None Include="Resources\glasses_txt_1.png" />
+    <None Include="Resources\shield_txt_1.png" />
+    <None Include="Resources\boots_pic_1.png" />
+    <None Include="Resources\costume_pic_1.png" />
+    <None Include="Resources\stick_txt_1.png" />
+    <None Include="Resources\stick_pic_1.png" />
+    <None Include="Resources\glasses_pic_1.png" />
+    <None Include="Resources\shield_pic_1.png" />
+    <None Include="Resources\gloves_txt_1.png" />
+    <None Include="Resources\Costume_txt_1.png" />
+    <None Include="Resources\boots_txt_1.png" />
+    <None Include="Resources\gloves_pic_1.png" />
+    <None Include="Resources\_00010202.png" />
+    <None Include="Resources\_000102021.png" />
+    <None Include="Resources\_000102202.png" />
+    <None Include="Resources\_00012220202.png" />
+    <None Include="Resources\_010010202.png" />
+    <None Include="Resources\_000102222202.png" />
+    <None Include="Resources\_00022210202.png" />
+    <None Include="Resources\_0021010202.png" />
+    <None Include="Resources\_002010202.png" />
+    <None Include="Resources\regnewlogin1.png" />
+    <None Include="Resources\regnewgroup2.png" />
+    <None Include="Resources\TaskButton.png" />
+    <None Include="Resources\VideoButton.png" />
+    <None Include="Resources\AgreeButton.png" />
+    <None Include="Resources\Finish1.png" />
+    <None Include="Resources\WiresVideos.png" />
+    <None Include="Resources\MathForKids.png" />
+    <None Include="Resources\MathForKids1.png" />
+    <None Include="Resources\PlugVid.png" />
+    <None Include="Resources\ToolsVid.png" />
+    <None Include="Resources\Enging.png" />
+    <None Include="Resources\Shaaaapng.png" />
+    <None Include="Resources\Sh2abl.png" />
+    <None Include="Resources\Shaввbl.png" />
+    <None Include="Resources\Book1.gif" />
+    <None Include="Resources\Book.png" />
+    <None Include="Resources\Book1.png" />
+    <None Include="Resources\Imperial.png" />
+    <None Include="Resources\Micrometer.png" />
+    <None Include="Resources\Convert.png" />
+    <None Include="Resources\Centimetr.png" />
+    <None Include="Resources\Yard.png" />
+    <None Include="Resources\Degree.png" />
+    <None Include="Resources\RoundOff.png" />
+    <None Include="Resources\ToolKit.png" />
+    <None Include="Resources\Side_Cutters.png" />
+    <None Include="Resources\Wire_Stripper.png" />
+    <None Include="Resources\Meas_Tape.png" />
+    <None Include="Resources\Pilers.png" />
+    <None Include="Resources\ToolKit1.png" />
+    <None Include="Resources\ScrewDriver.png" />
+    <None Include="Resources\Duct_Tape.png" />
+    <None Include="Resources\Crimper.png" />
+    <None Include="Resources\Phillips.png" />
+    <None Include="Resources\Hacksaw.png" />
+    <None Include="Resources\Nut_Driver.png" />
+    <None Include="Resources\Allen_Wrench.png" />
+    <None Include="Resources\Socket_Wrench.png" />
+    <None Include="Resources\Hammer.png" />
+    <None Include="Resources\Book2.png" />
+    <None Include="Resources\Book11.gif" />
+    <None Include="Resources\Hot_Stick.png" />
+    <None Include="Resources\Arc_Flash_Clothing.png" />
+    <None Include="Resources\Arc_Flash_Blanket.png" />
+    <None Include="Resources\Safety_Glasses.png" />
+    <None Include="Resources\Electrical_Hot_Gloves.png" />
+    <None Include="Resources\Rubber_Mat.png" />
+    <None Include="Resources\Arc_Shield.png" />
+    <None Include="Resources\Reg1.png" />
+    <None Include="Resources\RotaryDrill.png" />
+    <None Include="Resources\HammerDrill.png" />
+    <None Include="Resources\RotaryDrill1.png" />
+    <None Include="Resources\RotaryHammer.png" />
+    <None Include="Resources\Space.png" />
+    <None Include="Resources\Stone.png" />
+    <None Include="Resources\Plywood.png" />
+    <None Include="Resources\Cement.png" />
+    <None Include="Resources\Plaster.png" />
+    <None Include="Resources\Mortar.png" />
+    <None Include="Resources\Wood.png" />
+    <None Include="Resources\Concrete.png" />
+    <None Include="Resources\DryWall.png" />
+    <None Include="Resources\VocaBB.png" />
+    <None Include="Resources\MATERIALS_VOC.png" />
+    <None Include="Resources\SafetyMP.png" />
+    <None Include="Resources\SafetyMP1.png" />
+    <None Include="Resources\MATER_MP.png" />
+    <None Include="Resources\Mater_DEF.png" />
+    <None Include="Resources\MEas_DEF.png" />
+    <None Include="Resources\Tools_Def.png" />
+    <None Include="Resources\Tools2DEF.png" />
+    <None Include="Resources\Safety_DEF.png" />
+    <None Include="Resources\Mater_DEF1.png" />
+    <None Include="Resources\Рисунок31.png" />
+    <None Include="Resources\PanelFull.png" />
+    <None Include="Resources\Blocks.png" />
+    <None Include="Resources\Steel.png" />
+    <None Include="Resources\Copper.png" />
+    <None Include="Resources\Brick.png" />
+    <None Include="bin\Debug\Checks\333.png" />
+    <None Include="Resources\PanelCategories.png" />
+    <None Include="Resources\PanelCategories1.png" />
+    <None Include="bin\Debug\Pictures\PowerTools_Files\png\Close_State0.png" />
+    <None Include="Resources\Categories1.png" />
+    <None Include="Resources\Question_Button.png" />
+    <None Include="Resources\Information.png" />
+    <None Include="Resources\Refresh.png" />
+    <None Include="Resources\Refresh1.png" />
+    <None Include="Resources\THemes.png" />
+    <Content Include="unnamed.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Данный проект ссылается на пакеты NuGet, отсутствующие на этом компьютере. Используйте восстановление пакетов NuGet, чтобы скачать их.  Дополнительную информацию см. по адресу: http://go.microsoft.com/fwlink/?LinkID=322105. Отсутствует следующий файл: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

@@ -1,0 +1,899 @@
+C:\Users\Олек\source\repos\EnglishGuidance\EnglishGuidance\bin\Debug\EnglishGuidance.exe.config
+C:\Users\Олек\source\repos\EnglishGuidance\EnglishGuidance\bin\Debug\EnglishGuidance.exe
+C:\Users\Олек\source\repos\EnglishGuidance\EnglishGuidance\bin\Debug\EnglishGuidance.pdb
+C:\Users\Олек\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.csprojAssemblyReference.cache
+C:\Users\Олек\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.Form1.resources
+C:\Users\Олек\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.Form2.resources
+C:\Users\Олек\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.Properties.Resources.resources
+C:\Users\Олек\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.GenerateResource.cache
+C:\Users\Олек\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CoreCompileInputs.cache
+C:\Users\Олек\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.exe
+C:\Users\Олек\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.pdb
+C:\Users\Олек\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\Interop.WMPLib.dll
+C:\Users\Олек\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.ResolveComReference.cache
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\bin\Debug\EnglishGuidance.exe.config
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\bin\Debug\EnglishGuidance.exe
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\bin\Debug\EnglishGuidance.pdb
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\Interop.WMPLib.dll
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.ResolveComReference.cache
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.Form1.resources
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.Form2.resources
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.Properties.Resources.resources
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.GenerateResource.cache
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.exe
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.pdb
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.Reg.resources
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\bin\Debug\English_Guidance_db.mdf
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\bin\Debug\English_Guidance_db_log.ldf
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\bin\Debug\Interop.WMPLib.dll
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.VidDrag.resources
+C:\Users\Олег\source\repos\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.csprojAssemblyReference.cache
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\bin\Debug\EnglishGuidance.exe.config
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\bin\Debug\EnglishGuidance.exe
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\bin\Debug\EnglishGuidance.pdb
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\bin\Debug\EntityFramework.dll
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\bin\Debug\EntityFramework.xml
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\bin\Debug\Interop.WMPLib.dll
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\Interop.WMPLib.dll
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.ResolveComReference.cache
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.Form1.resources
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.Form2.resources
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.Properties.Resources.resources
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.Reg.resources
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.VidDrag.resources
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.GenerateResource.cache
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CopyComplete
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.exe
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.pdb
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.RegNew.resources
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.ResultForm.resources
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.csprojAssemblyReference.cache
+C:\Users\Олег\source\EnglishGuidance\EnglishGuidance\obj\Debug\EnglishGuidance.Vids.resources
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EnglishGuidance.exe.config
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EnglishGuidance.exe
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EnglishGuidance.pdb
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EntityFramework.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EntityFramework.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Interop.WMPLib.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.csprojAssemblyReference.cache
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\Interop.WMPLib.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.ResolveComReference.cache
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.Form1.resources
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.Form2.resources
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.Properties.Resources.resources
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.Reg.resources
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.RegNew.resources
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.ResultForm.resources
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.VidDrag.resources
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.Vids.resources
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.GenerateResource.cache
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CopyComplete
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.exe
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.pdb
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\netstandard.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.AppContext.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Collections.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ComponentModel.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Console.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Data.Common.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Globalization.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.Compression.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.Pipes.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Linq.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.Http.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.Ping.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.Primitives.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.Requests.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.Security.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.Sockets.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ObjectModel.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Reflection.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Resources.Reader.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Resources.Writer.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Claims.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Principal.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.SecureString.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Text.Encoding.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Thread.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Timer.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ValueTuple.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Xml.XPath.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Buffers.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Memory.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Buffers.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Memory.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Олег\source\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.exe.config
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EnglishGuidance.exe.config
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EnglishGuidance.exe
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EnglishGuidance.pdb
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\netstandard.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.AppContext.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Collections.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ComponentModel.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Console.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Data.Common.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Globalization.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.Compression.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.Pipes.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Linq.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.Http.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.Ping.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.Primitives.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.Requests.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.Security.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.Sockets.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ObjectModel.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Reflection.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Resources.Reader.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Resources.Writer.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Claims.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.Principal.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Security.SecureString.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Text.Encoding.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Thread.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Timer.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ValueTuple.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Xml.XPath.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EntityFramework.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Buffers.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Memory.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EntityFramework.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Buffers.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Memory.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.exe.config
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.ResolveComReference.cache
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.Form1.resources
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.Form2.resources
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.Properties.Resources.resources
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.Reg.resources
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.RegNew.resources
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.ResultForm.resources
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.VidDrag.resources
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.Vids.resources
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.GenerateResource.cache
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CoreCompileInputs.cache
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CopyComplete
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.exe
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.pdb
+C:\Users\Rose\Desktop\EnglishGuidance без установщика, старый код\EnglishGuidance\obj\Debug\EnglishGuidance.csprojAssemblyReference.cache
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\EnglishGuidance.exe.config
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\EnglishGuidance.exe
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\EnglishGuidance.pdb
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\netstandard.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.AppContext.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Collections.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.ComponentModel.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Console.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Data.Common.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Globalization.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.IO.Compression.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.IO.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.IO.Pipes.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Linq.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Net.Http.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Net.Ping.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Net.Primitives.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Net.Requests.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Net.Security.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Net.Sockets.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.ObjectModel.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Reflection.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Resources.Reader.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Resources.Writer.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Runtime.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Security.Claims.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Security.Principal.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Security.SecureString.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Text.Encoding.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Threading.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Threading.Thread.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Threading.Timer.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.ValueTuple.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Xml.XPath.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\EntityFramework.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Buffers.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Memory.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\EntityFramework.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Buffers.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Memory.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\Interop.WMPLib.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.csprojAssemblyReference.cache
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.exe.config
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\Interop.WMPLib.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.ResolveComReference.cache
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.Form1.resources
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.Form2.resources
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.Properties.Resources.resources
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.Reg.resources
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.RegNew.resources
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.ResultForm.resources
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.VidDrag.resources
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.Vids.resources
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.GenerateResource.cache
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CopyComplete
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.exe
+C:\Users\Олег\source\port_bd\EnglishGuidance\obj\Debug\EnglishGuidance.pdb
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\EnglishGuidance.exe.config
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\EnglishGuidance.exe
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\EnglishGuidance.pdb
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\netstandard.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.AppContext.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Collections.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.ComponentModel.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Console.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Data.Common.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Globalization.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.IO.Compression.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.IO.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.IO.Pipes.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Linq.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Net.Http.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Net.Ping.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Net.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Net.Requests.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Net.Security.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Net.Sockets.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.ObjectModel.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Reflection.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Resources.Reader.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Resources.Writer.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Runtime.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Security.Claims.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Security.Principal.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Security.SecureString.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Text.Encoding.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Threading.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Threading.Thread.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Threading.Timer.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.ValueTuple.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Xml.XPath.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\EntityFramework.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Buffers.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Memory.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\EntityFramework.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Buffers.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Memory.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\Interop.WMPLib.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.csprojAssemblyReference.cache
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.exe.config
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\Interop.WMPLib.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.ResolveComReference.cache
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.Form1.resources
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.Form2.resources
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.Properties.Resources.resources
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.Reg.resources
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.RegNew.resources
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.ResultForm.resources
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.VidDrag.resources
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.Vids.resources
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.GenerateResource.cache
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CopyComplete
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.exe
+C:\Users\Олег\source\Language Practice for Future Electricians\EnglishGuidance\obj\Debug\EnglishGuidance.pdb
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\EnglishGuidance.exe.config
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\EnglishGuidance.exe
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\EnglishGuidance.pdb
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\netstandard.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.AppContext.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Collections.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.ComponentModel.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Console.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Data.Common.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Globalization.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.IO.Compression.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.IO.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.IO.Pipes.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Linq.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Net.Http.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Net.Ping.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Net.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Net.Requests.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Net.Security.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Net.Sockets.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.ObjectModel.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Reflection.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Resources.Reader.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Resources.Writer.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Runtime.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Security.Claims.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Security.Principal.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Security.SecureString.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Text.Encoding.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Threading.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Threading.Thread.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Threading.Timer.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.ValueTuple.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Xml.XPath.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\EntityFramework.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Buffers.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Memory.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\EntityFramework.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Buffers.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Memory.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\Interop.WMPLib.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.csprojAssemblyReference.cache
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.exe.config
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\Interop.WMPLib.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.ResolveComReference.cache
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.Form1.resources
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.Form2.resources
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.Properties.Resources.resources
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.Reg.resources
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.RegNew.resources
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.ResultForm.resources
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.VidDrag.resources
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.Vids.resources
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.GenerateResource.cache
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.csproj.CopyComplete
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.exe
+C:\Users\Олег\source\Language Practice for Future Electricians — копия\EnglishGuidance\obj\Debug\EnglishGuidance.pdb
